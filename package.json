@@ -1,0 +1,15 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "no idea"
+  },
+  "repository": {
+    "type": "git",
+    "url": "i dont know"
+  },
+  "author": "",
+  "license": "ISC"
+}
