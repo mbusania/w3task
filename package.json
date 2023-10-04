@@ -1,5 +1,5 @@
 {
-  "scripts":{
-    "hello":"node helloworld.js"  
-    }
+"scripts":{
+  "hello":"node helloworld.js"  
   }
+}
